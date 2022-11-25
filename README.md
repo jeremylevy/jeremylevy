@@ -1,6 +1,6 @@
 # Hey! 👋🏼  I'm Jérémy
 
-I'm a french software engineer and entrepreneur 🇫🇷. 
+I'm a french software engineer 🇫🇷. 
 
 I'm currently working on [@recode](https://github.com/recode-sh/cli) and [@eleven](https://github.com/eleven-sh/cli) to help people develop and deploy their projects on their cloud provider accounts easily.
 
